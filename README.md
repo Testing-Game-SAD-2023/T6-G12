@@ -5,8 +5,8 @@
 [XAMPP](https://www.apachefriends.org/it/download.html)
   
 ## 2)Scaricare l'intera cartella GitHub o le seguenti cartelle:
-[Icone] (Icone)
-[T6] (T6)
+[Icone]
+[T6] 
   
 ## 3)Scaricare e scompattare l'archivio " Codemirror.zip "  
 
