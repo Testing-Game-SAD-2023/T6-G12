@@ -5,20 +5,20 @@
   XAMPP: https://www.apachefriends.org/it/download.html
   
 ## 2)Scaricare l'intera cartella GitHub o le seguenti cartelle:
-     Icone
-     T6
+Icone
+T6
   
 ## 3)Scaricare e scompattare l'archivio " Codemirror.zip "  
 
 ## 4)Scaricare il file " index.html "
 
 ## 5)Dopo aver installato MAMP o XAMPP compiere i seguenti passi:
-  (Procedura eseguita da un membro del Team su macOS) MAMP: Applications --> MAMP --> htdocs --> copiare all'interno di questa cartella i seguenti file:
+(Procedura eseguita da un membro del Team su macOS) MAMP: Applications --> MAMP --> htdocs --> copiare all'interno di questa cartella i seguenti file:
   1. Icone
   2. T6
   3. Codemirror
   4. index.html
-  (Procedura eseguita da un membro del Team su Windows) XAMPP: Directory_in_cui_è_installato_XAMPP --> XAMPP --> htdocs --> copiare all'interno di questa cartella i seguenti file:
+(Procedura eseguita da un membro del Team su Windows) XAMPP: Directory_in_cui_è_installato_XAMPP --> XAMPP --> htdocs --> copiare all'interno di questa cartella i seguenti file:
   1. Icone
   2. T6
   3. Codemirror
