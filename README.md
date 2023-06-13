@@ -1,8 +1,8 @@
 # GUIDA ALL'INSTALLAZIONE
 
 ## 1)Scaricare uno tra i due software proposti per il funzionamento di un WebServer:
-    [MAMP](https://www.mamp.info/en/downloads/)
-    [XAMPP](https://www.apachefriends.org/it/download.html)
+[MAMP](https://www.mamp.info/en/downloads/)
+[XAMPP](https://www.apachefriends.org/it/download.html)
   
 ## 2)Scaricare l'intera cartella GitHub o le seguenti cartelle:
 Icone
