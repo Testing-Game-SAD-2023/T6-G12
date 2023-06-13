@@ -8,7 +8,7 @@
     Icone
     T6
   
-## 3)Scaricare e scompattare l'archivio " Codemirror.zip "  
+## 3)Scaricare e scompattare l'archivio " codemirror.zip "  
 
 ## 4)Scaricare il file " index.html "
 
