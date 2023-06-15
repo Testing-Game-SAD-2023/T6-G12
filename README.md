@@ -67,6 +67,9 @@ XAMPP: Directory_in_cui_è_installato_XAMPP/XAMPP/htdocs --> copiare all'interno
   1. docker build -t editor .
   2. docker run -p 80:80 editor
 ## Su Docker verrà creata l'immagine ed il container relativi al progetto.
+# NB: Per cambiare numero di porta fare come segue:
+      T6/src/main/resources/application.properties
+      Una volta all'interno del file inserirela seguente riga di codice:server.port="NUMERO_PORTA_DESIDERATA"
   
   
   
