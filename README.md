@@ -13,6 +13,7 @@ MAMP: Applications/MAMP/htdocs --> copiare all'interno di questa cartella i segu
   2. T6
   3. Codemirror
   4. index.html
+
 XAMPP: Directory_in_cui_è_installato_XAMPP/XAMPP/htdocs --> copiare all'interno di questa cartella i seguenti file:
   1. Icone
   2. T6
@@ -50,6 +51,7 @@ MAMP: Applications/MAMP/htdocs --> copiare all'interno di questa cartella i segu
   3. Codemirror
   4. index.html
   5. Dockerfile
+
 XAMPP: Directory_in_cui_è_installato_XAMPP/XAMPP/htdocs --> copiare all'interno di questa cartella i seguenti file:
   1. Icone
   2. T6
