@@ -27,7 +27,7 @@ XAMPP: Directory_in_cui_è_installato_XAMPP/XAMPP/htdocs --> copiare all'interno
     MAMP/htdocs/T6/src/main/java/com/example/T6/MainController.java
     XAMPP/htdocs/T6/src/main/java/com/example/T6/MainController.java
   Che consentirà l'avvio del Framework SPRING.
-## ---------------------------------------------------------------------------------------------------------------------------------------  
+## ---------------------------------------------------------------
 # GUIDA ALL'INSTALLAZIONE (IN DOCKER)
 ## 1)Scaricare Docker Desktop:
 [Docker Desktop](https://www.docker.com/products/docker-desktop/)
