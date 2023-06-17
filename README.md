@@ -21,8 +21,8 @@ XAMPP: Directory_in_cui_è_installato_XAMPP/XAMPP/htdocs --> copiare all'interno
   4. index.html
  ## 6)Avviare Server Apache tramite MAMP o XAMPP
  ## 7)Navigare tramite un browser ai seguenti indirizzi:
-    MAMP: localhost/8888
-    XAMPP: localhost/80
+    MAMP: localhost/8080
+    XAMPP: localhost/8080
 ## 8)Dopo aver scaricato la cartella T6 eseguire il file MainController.java (CONTROLLER SPRING) il cui percorso è mostrato di seguito:
     MAMP/htdocs/T6/src/main/java/com/example/T6/MainController.java
     XAMPP/htdocs/T6/src/main/java/com/example/T6/MainController.java
@@ -58,7 +58,7 @@ XAMPP: Directory_in_cui_è_installato_XAMPP/XAMPP/htdocs --> copiare all'interno
   3. Codemirror
   4. index.html
   5. Dockerfile
-## 10)Avviare Server Apache tramite MAMP o XAMPP sul porto 80
+## 10)Avviare Server Apache tramite MAMP o XAMPP sul porto 8080
 ## 11)Avviare l'applicazione Docker Desktop
 ## 12)Avviare il Prompt dei Comandi
 ## 13)Posizionarsi nella directory in cui è presente il file pom.xml e digitare il seguente comando (il file pom.xml si trova nella cartella T6 della directory creata, esempio: editor/T6/pom.xml:
